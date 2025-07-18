@@ -1,0 +1,11 @@
+# Task ID: 6
+# Title: 사이드바 컴포넌트 구현
+# Status: pending
+# Dependencies: 4
+# Priority: medium
+# Description: 좌측 사이드바 메뉴 컴포넌트 구현 및 계층형 네비게이션
+# Details:
+SidebarComponent.vue 구현, 너비 280px 고정, 배경색 #f8fafc. 메뉴 구조: 대시보드, 물류관리(재고/창고/배송/주문/고객), 보고서(분석/통계), 설정(시스템설정). 아코디언 메뉴 구현, 활성 메뉴 상태 관리. 토글 기능으로 축소/확장 지원. 각 메뉴 아이템 48px 높이, 16px 패딩
+
+# Test Strategy:
+메뉴 계층 구조 테스트, 아코디언 동작 확인, 활성 상태 표시 검증

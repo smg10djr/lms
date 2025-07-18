@@ -1,0 +1,11 @@
+# Task ID: 1
+# Title: 프로젝트 초기 설정 및 Vue 3 환경 구성
+# Status: pending
+# Dependencies: None
+# Priority: high
+# Description: Vue 3 Composition API 기반 프로젝트 초기 설정 및 개발 환경 구성
+# Details:
+Vue 3.4+ 최신 버전 사용, Vite 5.0+ 번들러 설정, TypeScript 5.0+ 지원, ESLint/Prettier 코드 포맷팅 설정. package.json 의존성: vue@^3.4.0, @vitejs/plugin-vue@^5.0.0, typescript@^5.0.0, @vue/tsconfig@^0.5.0, eslint@^8.0.0, prettier@^3.0.0. tailwindcss@^3.4.0 CSS 프레임워크 설정
+
+# Test Strategy:
+개발 서버 구동 확인, 빌드 프로세스 검증, 타입 체크 및 린트 규칙 적용 확인

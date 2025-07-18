@@ -1,0 +1,11 @@
+# Task ID: 2
+# Title: 상태 관리 시스템 구성
+# Status: pending
+# Dependencies: 1
+# Priority: high
+# Description: Pinia 상태 관리 라이브러리 설정 및 탭 시스템 상태 구조 설계
+# Details:
+Pinia 2.1+ 설치 및 설정, 탭 시스템 상태 store 구성. 상태 구조: activeTab, openTabs, sidebarOpen, tabStates, tabHeader. 타입 안전성을 위한 TypeScript 인터페이스 정의. 액션: openTab, closeTab, setActiveTab, toggleSidebar, scrollTabs, updateTabState. 상태 영속성을 위한 pinia-plugin-persistedstate 플러그인 적용
+
+# Test Strategy:
+상태 변경 액션 테스트, 탭 상태 영속성 확인, 타입 안전성 검증

@@ -1,0 +1,11 @@
+# Task ID: 12
+# Title: 접근성(A11Y) 개선
+# Status: pending
+# Dependencies: 7, 8
+# Priority: medium
+# Description: 웹 접근성 가이드라인 준수 및 키보드 네비게이션 구현
+# Details:
+WCAG 2.1 AA 수준 접근성 구현. ARIA 라벨 적용(aria-label, aria-labelledby, aria-describedby). 키보드 네비게이션: Tab, Arrow, Enter, Space 키 지원. 포커스 관리 시스템, 스크린 리더 지원. Vue A11y 플러그인 활용, 접근성 테스트 도구 통합
+
+# Test Strategy:
+스크린 리더 테스트, 키보드 네비게이션 검증, WCAG 준수 확인

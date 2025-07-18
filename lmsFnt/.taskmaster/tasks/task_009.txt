@@ -1,0 +1,11 @@
+# Task ID: 9
+# Title: 풋터 컴포넌트 구현
+# Status: pending
+# Dependencies: 4
+# Priority: low
+# Description: 하단 풋터 컴포넌트 구현 및 시스템 정보 표시
+# Details:
+FooterComponent.vue 구현, 높이 48px 고정, 배경색 #f8fafc. 좌측: 저작권 정보, 버전 정보. 우측: 고객 지원 링크, 시스템 상태 표시. 폰트 크기 12px, 텍스트 색상 #6b7280, 링크 색상 #3b82f6. 상하 12px, 좌우 24px 패딩
+
+# Test Strategy:
+풋터 레이아웃 테스트, 링크 동작 확인, 시스템 상태 표시 검증

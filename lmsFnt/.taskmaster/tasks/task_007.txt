@@ -1,0 +1,11 @@
+# Task ID: 7
+# Title: 탭 시스템 헤더 컴포넌트 구현
+# Status: pending
+# Dependencies: 2, 4
+# Priority: high
+# Description: 탭 헤더 영역 컴포넌트 구현 및 탭 목록 관리
+# Details:
+TabHeader.vue 구현, 높이 52px 고정, 배경색 #ffffff. 탭 목록 렌더링, 스크롤 버튼 처리. 탭 너비: 최소 120px, 최대 200px. 활성 탭 스타일링(하단 테두리 #3b82f6), 비활성 탭 스타일링(배경색 #f8fafc). 닫기 버튼(14px × 14px) 구현. 탭 오버플로우 처리를 위한 가로 스크롤 기능
+
+# Test Strategy:
+탭 렌더링 테스트, 스크롤 기능 확인, 탭 스타일링 검증

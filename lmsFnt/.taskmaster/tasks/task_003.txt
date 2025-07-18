@@ -1,0 +1,11 @@
+# Task ID: 3
+# Title: 라우터 설정 및 네비게이션 구조
+# Status: pending
+# Dependencies: 1
+# Priority: high
+# Description: Vue Router 설정 및 물류관리 시스템 페이지 라우팅 구조 구성
+# Details:
+Vue Router 4.2+ 설치, 중첩 라우터 구조 설계. 주요 라우트: /dashboard, /inventory, /warehouse, /shipping, /orders, /customers, /analytics, /settings. 코드 분할을 위한 동적 import 사용. 라우터 가드 설정으로 인증 및 권한 체크. 히스토리 모드 사용으로 SPA 라우팅 구현
+
+# Test Strategy:
+라우터 네비게이션 테스트, 코드 분할 동작 확인, 가드 함수 검증

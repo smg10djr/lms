@@ -1,0 +1,11 @@
+# Task ID: 11
+# Title: 반응형 디자인 구현
+# Status: pending
+# Dependencies: 4, 5, 6
+# Priority: medium
+# Description: 다양한 화면 크기에 대응하는 반응형 레이아웃 구현
+# Details:
+Tailwind CSS 브레이크포인트 활용: sm(640px), md(768px), lg(1024px), xl(1280px). 1200px 이상: 전체 레이아웃, 768px-1199px: 사이드바 축소, 767px 이하: 오버레이 모드. 햄버거 메뉴 구현, 터치 제스처 지원. 모바일 최적화: 터치 영역 최소 44px, 탭 터치 스크롤
+
+# Test Strategy:
+다양한 화면 크기 테스트, 터치 제스처 확인, 모바일 최적화 검증

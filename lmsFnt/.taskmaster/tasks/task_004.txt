@@ -1,0 +1,11 @@
+# Task ID: 4
+# Title: 메인 레이아웃 컴포넌트 구현
+# Status: pending
+# Dependencies: 1, 2
+# Priority: high
+# Description: 전체 화면 구조를 담당하는 메인 레이아웃 컴포넌트 구현
+# Details:
+MainLayout.vue 컴포넌트 구현, CSS Grid 레이아웃 사용. 구조: Header(64px), Sidebar(280px), Main Content(flexible), Footer(48px). Tailwind CSS 클래스 활용, 반응형 디자인 적용. 컴포넌트 간 통신을 위한 provide/inject 패턴 사용. 컴포넌트 합성(composition) 패턴으로 레이아웃 구성
+
+# Test Strategy:
+레이아웃 구조 검증, 반응형 동작 테스트, 컴포넌트 마운트 확인

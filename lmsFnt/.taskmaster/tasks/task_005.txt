@@ -1,0 +1,11 @@
+# Task ID: 5
+# Title: 헤더 컴포넌트 구현
+# Status: pending
+# Dependencies: 4
+# Priority: medium
+# Description: 상단 메뉴바(Header) 컴포넌트 구현 및 네비게이션 기능
+# Details:
+HeaderComponent.vue 구현, 높이 64px 고정, 배경색 #1f2937. 좌측: 로고(120px), 메인 메뉴(홈, 물류관리, 보고서, 설정). 우측: 알림 아이콘, 사용자 프로필 드롭다운. Headless UI 또는 Radix Vue 컴포넌트 라이브러리 사용으로 접근성 확보. 아이콘은 Heroicons 2.0 사용
+
+# Test Strategy:
+헤더 레이아웃 테스트, 드롭다운 메뉴 동작 확인, 접근성 검증

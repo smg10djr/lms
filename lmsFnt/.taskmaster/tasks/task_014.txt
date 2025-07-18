@@ -1,0 +1,11 @@
+# Task ID: 14
+# Title: 대시보드 페이지 구현
+# Status: pending
+# Dependencies: 8
+# Priority: medium
+# Description: 기본 대시보드 페이지 구현 및 KPI 카드 컴포넌트 구성
+# Details:
+DashboardPage.vue 구현, 기본 탭으로 설정. KPI 카드 컴포넌트(KPICard.vue) 구현: 실시간 통계, 차트 영역, 최근 활동. Chart.js 3.9+ 또는 Apache ECharts 5.4+ 사용. 그리드 레이아웃(CSS Grid) 적용, 반응형 카드 배치. 실시간 데이터 업데이트를 위한 WebSocket 또는 SSE 연동 준비
+
+# Test Strategy:
+대시보드 레이아웃 테스트, KPI 카드 렌더링 확인, 차트 표시 검증
